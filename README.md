@@ -1,6 +1,7 @@
 # Project List / Listado de Proyectos
 ## 🍃 Nook FM
-<img width="1919" height="1030" alt="imagen" src="https://github.com/user-attachments/assets/6336e771-c0cd-4612-8ee5-bbc6442f5ad5" />
+<img width="1919" height="1028" alt="imagen" src="https://github.com/user-attachments/assets/b14e068c-e1d4-40ab-9881-4d09432ffc8a" />
+
 
 ### EN
 An Animal Crossing Radio which plays songs according to local time and weather.
