@@ -1,5 +1,5 @@
 # Project List / Listado de Proyectos
-## 🍃 Nook FM
+## 🍃 Nook FM (acmusic)
 <img width="1919" height="1028" alt="imagen" src="https://github.com/user-attachments/assets/b14e068c-e1d4-40ab-9881-4d09432ffc8a" />
 
 
@@ -22,3 +22,9 @@ Instalación y ejecución:
 4. Es importante (aunque no imprescindible) permitir autoplay y acceso a la ubicación para una mejor experiencia.
 
 Creado utilizando React.js y la [API de OpenWeather](<https://openweathermap.org/api>). Utilizado como fondo [Animal Crossing: Grass de rush57 en DeviantArt](<https://www.deviantart.com/rush57/art/Animal-Crossing-Grass-145470729>)
+
+## 💻  Prototipo NFC para brecha digital (test_app)
+<img width="903" height="926" alt="imagen" src="https://github.com/user-attachments/assets/904df78b-4f68-43a8-a076-13514d981014" />
+
+
+Un pequeño prototipo que utiliza NFC para navegar por una aplicación escolar sencilla. Para su uso, es necesario un NFC y pegatinas ACR122U con los tags correspondientes.
