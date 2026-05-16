@@ -28,3 +28,4 @@ Creado utilizando React.js y la [API de OpenWeather](<https://openweathermap.org
 
 
 Un pequeño prototipo que utiliza NFC para navegar por una aplicación escolar sencilla. Para su uso, es necesario un NFC y pegatinas ACR122U con los tags correspondientes.
+Creado usando Python y la librería nfcpy.
