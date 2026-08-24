@@ -7,7 +7,7 @@ function App() {
   const [weather, setWeather] = useState(null);
   const [city, setCity] = useState(null);
   const [version, setVersion] = useState('Wild World/City Folk');
-  const appid = '20d69df1e454303a5e3a07e410dabcc1';
+  const appid = process.env.APP_ID;
   
   useEffect(() => {
     let file;

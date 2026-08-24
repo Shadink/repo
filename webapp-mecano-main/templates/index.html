@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mecano 1981-1987</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link rel="icon" href="{{ url_for('static', filename='img/album1.png') }}">
+</head>
+
+<script>
+    document.querySelectorAll("a").forEach(link => {
+        link.addEventListener("click", function (e) {
+            e.preventDefault();
+
+            document.body.classList.add("fade-out");
+
+            setTimeout(() => {
+                window.location = this.href;
+            }, 300);
+        });
+    });
+</script>
+
+<body>
+
+    <div class="grid">
+        <a href="/album/1" class="img-btn">
+            <div class="stack">
+                <img class="back" src="{{ url_for('static', filename='img/vinyl.png') }}">
+                <img class="front" src="{{ url_for('static', filename='img/album1.png') }}">
+            </div>
+        </a>
+        
+        <a href="/album/2" class="img-btn">
+            <div class="stack">
+                <img class="back" src="{{ url_for('static', filename='img/vinyl.png') }}">
+                <img class="front" src="{{ url_for('static', filename='img/album2.png') }}">
+            </div>
+        </a>
+
+        <a href="/album/3" class="img-btn">
+            <div class="stack">
+                <img class="back" src="{{ url_for('static', filename='img/vinyl.png') }}">
+                <img class="front" src="{{ url_for('static', filename='img/album3.png') }}">
+            </div>
+        </a>
+
+
+        <a href="/album/4" class="img-btn">
+            <div class="stack">
+                <img class="back" src="{{ url_for('static', filename='img/vinyl.png') }}">
+                <img class="front" src="{{ url_for('static', filename='img/album4.png') }}">
+            </div>
+        </a>
+    </div>
+    <div class="grid">
+        <img class="graph" src="{{ url_for('static', filename='img/graph.png') }}">
+        <img class="graph" src="{{ url_for('static', filename='img/graph2.png') }}">
+        <img class="graph" src="{{ url_for('static', filename='img/graph3.png') }}">
+        <img class="graph" src="{{ url_for('static', filename='img/graph4.png') }}">
+        <img class="graph" src="{{ url_for('static', filename='img/graph5.png') }}">
+    </div>
+
+</body>
+</html>
