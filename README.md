@@ -44,6 +44,7 @@ Creado usando Python y la librería nfcpy.
 
 ## ✈️ Planificador de viajes
 <img width="1280" height="685" alt="imagen" src="https://github.com/user-attachments/assets/07c8013e-06a1-4be0-b0fe-1d67e57763fd" />
+
 ### EN
 A simple web app that provides comprehensive information for any travel destination. It includes categories such as Tourism, Leisure, Parks, Cafés, Bars, and Restaurants, with customization options for budget, number of activities, and distance from the accommodation.
 Accesible via [this link](https://recomendador-de-viajes.streamlit.app/).
@@ -56,6 +57,7 @@ Creado utilizando Streamlit, Python y la API de Google Maps.
 
 ## S.A.I.K.O.U.
 <img width="614" height="1080" alt="saikou" src="https://github.com/user-attachments/assets/311cb9bc-8a0c-4328-9f7e-d8dc943e625c" />
+
 ### EN
 A wacky Japanese-style infinite and procedurally generated shoot-em-up arcade game.
 Also accesible via [this link](https://vichosoft.itch.io/saikou).
