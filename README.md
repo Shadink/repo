@@ -42,6 +42,16 @@ Creado utilizando Flask.
 Un pequeño prototipo que utiliza NFC para navegar por una aplicación escolar sencilla. Para su uso, es necesario un NFC y pegatinas ACR122U con los tags correspondientes.
 Creado usando Python y la librería nfcpy.
 
+## 🗣️ Fake MMORPG simulation (mmorpg)
+<img width="1160" height="652" alt="imagen" src="https://github.com/user-attachments/assets/ba360e6a-b075-4b53-9ca3-428d20da1737" />
+
+### EN
+A small prototype that mimics the activity in an MMORPG by generating a randomized chat with random usernames and personalities per fake user. It's completed by a voice conversation going on in the middle of the world, which is also randomized but attempts to create personalities for each of the 3 players: one is more receptive, another tells stories, and the other tries to participate.
+Made using Godot.
+
+### ES
+Un pequeño prototipo que imita la actividad de un MMORPG, generando un chat aleatorizado con nombres y personalidades aleatorios por cada usuario falso. Lo completa una conversación de voz que ocurre en la mitad del mapa, que también está randomizada, pero pretende crear personalidades para cada uno de los 3 jugadores: uno es más receptivo, otro cuenta historias, y el último intenta participar.
+Creado en Godot.
 
 ## 👾 S.A.I.K.O.U.
 <img width="614" height="1080" alt="saikou" src="https://github.com/user-attachments/assets/311cb9bc-8a0c-4328-9f7e-d8dc943e625c" />
